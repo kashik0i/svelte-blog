@@ -42,7 +42,7 @@ export const links = {
   },
   personal_projects: {
     spank_that_stonk: 'https://spankthatstonk.xyz',
-    code_colab: 'https://codecolab.dev',
-    colab_hub: 'https://hub.codecolab.dev'
+    code_colab: 'https://codecolab.cloud',
+    colab_hub: 'https://hub.codecolab.cloud'
   }
 }
